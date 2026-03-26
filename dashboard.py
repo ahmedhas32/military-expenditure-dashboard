@@ -4,7 +4,7 @@ import plotly.express as px
 
 # ====================== DEFAULT DATA FROM GITHUB ======================
 # ←←← PASTE YOUR RAW URL HERE ↓↓↓
-DEFAULT_DATA_URL = "https://github.com/ahmedhas32/military-expenditure-dashboard/blob/1158cecc14c099da7939c530955cc46225d64dd4/dashboard%20data.csv"
+DEFAULT_DATA_URL = "https://raw.githubusercontent.com/ahmedhas32/military-expenditure-dashboard/main/dashboard%20data.csv"
 # =====================================================================
 
 st.set_page_config(page_title="Military Expenditure Dashboard", layout="wide")
